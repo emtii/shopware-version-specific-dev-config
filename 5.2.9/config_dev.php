@@ -32,10 +32,6 @@ $dev_settings = [
         'display_errors' => 1
     ],
 
-    'template' => [
-        'forceCompile' => true
-    ],
-
     'csrfProtection' => [
         'frontend' => true,
         'backend' => true
